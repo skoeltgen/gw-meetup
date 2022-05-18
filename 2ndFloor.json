@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#exit2ndFloor"
+                 "value":"house.json#exit2ndFloor"
                 }],
          "type":"tilelayer",
          "visible":true,

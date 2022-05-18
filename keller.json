@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#exitBasement"
+                 "value":"house.json#exitBasement"
                 }],
          "type":"tilelayer",
          "visible":true,
