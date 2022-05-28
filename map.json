@@ -222,7 +222,7 @@
                 {
                  "name":"openTap",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/Y3-VTt5CMUM"
+                 "value":"https:\/\/www.youtube.com\/embed\/Y3-VTt5CMUM"
                 }],
          "type":"tilelayer",
          "visible":true,
