@@ -1605,6 +1605,12 @@
  "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"https:\/\/unpkg.com\/@workadventure\/scripting-api-extra@^1\/dist\/bundle.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.8.5",
  "tileheight":32,
