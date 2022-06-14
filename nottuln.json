@@ -68,7 +68,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#TODO"
+                 "value":"map.json#NottulnEntryFrom"
                 }],
          "type":"tilelayer",
          "visible":true,
