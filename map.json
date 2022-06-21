@@ -9943,7 +9943,7 @@
                 {
                  "animation":[
                         {
-                         "duration":5000,
+                         "duration":8500,
                          "tileid":84
                         }, 
                         {
@@ -9967,7 +9967,7 @@
                          "tileid":140
                         }, 
                         {
-                         "duration":5000,
+                         "duration":1500,
                          "tileid":84
                         }],
                  "id":141
