@@ -931,7 +931,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/fire.mp3"
+                         "value":"src\/assets\/fire.mp3"
                         }]
                 }],
          "tilewidth":32
