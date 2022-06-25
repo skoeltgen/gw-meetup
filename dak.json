@@ -167,7 +167,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"instagram.com\/stories\/highlights\/18287075527020225\/?hl=de"
+                 "value":"https:\/\/www.instagram.com\/stories\/highlights\/18287075527020225\/?hl=de"
                 }],
          "type":"tilelayer",
          "visible":true,
