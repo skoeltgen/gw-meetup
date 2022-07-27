@@ -1,3 +1,5 @@
+Archived 28July2022 - because the corresponding scoutcamp is over
+
 # WorkAdventure Map Starter Kit
 
 ![map](./map.png)
