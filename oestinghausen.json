@@ -163,12 +163,7 @@
          "id":10,
          "name":"video",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/dpsg-sonsbeck.de\/images\/dak\/gw-xxl-864684593-s14.mp4"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":15,

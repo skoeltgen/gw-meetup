@@ -163,12 +163,7 @@
          "id":10,
          "name":"video",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"TODO"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":15,

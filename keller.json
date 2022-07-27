@@ -58,12 +58,7 @@
          "id":8,
          "name":"muenster",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/dpsg-muenster.de"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":20,
@@ -95,12 +90,7 @@
          "id":9,
          "name":"sonsbeck",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/dpsg-sonsbeck.de"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":20,

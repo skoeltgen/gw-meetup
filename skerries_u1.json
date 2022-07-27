@@ -163,12 +163,7 @@
          "id":10,
          "name":"video1",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/dpsg-sonsbeck.de\/images\/dak\/Skerries-video-i1_web.mp4"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":15,
@@ -200,12 +195,7 @@
          "id":13,
          "name":"video2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/dpsg-sonsbeck.de\/images\/dak\/Skerries-video-i2_web.mp4"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":15,
@@ -237,12 +227,7 @@
          "id":14,
          "name":"video3",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/dpsg-sonsbeck.de\/images\/dak\/Untitled%20Project.mp4"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":15,
